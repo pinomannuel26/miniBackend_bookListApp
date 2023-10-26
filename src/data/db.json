@@ -232,4 +232,21 @@
         }
       }
     }
-  ]}
+  ],
+  "user":[
+    {
+        "id": 1,
+        "name": "mannuel",
+        "email": "manuel@gmail.com",
+        "password": "12345",
+        "image":"https://assets.stickpng.com/images/585e4bcdcb11b227491c3396.png"
+    },
+    {
+        "id": 2,
+        "name": "santiago",
+        "email": "santiagol@gmail.com",
+        "password": "12345",
+        "image":"https://static.vecteezy.com/system/resources/previews/019/896/008/original/male-user-avatar-icon-in-flat-design-style-person-signs-illustration-png.png"
+    }
+  ]
+}
